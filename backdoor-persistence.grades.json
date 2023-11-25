@@ -1,0 +1,23 @@
+{
+    "B19DCAT177.backdoor-persistence": {
+        "parameter": {
+            "FSTRING": "bf48043c1c2b8a1d83d6b4a0f1e6d06a"
+        },
+        "grades": {
+            "filetoview": true,
+            "msfvenom": true,
+            "backdoor": true,
+            "movefile": true,
+            "persistence": true,
+            "persistence_ok": true
+        },
+        "firstlevelzip": {},
+        "secondlevelzip": {},
+        "actualwatermark": "fafd2fa96f990c71841889af3b737253",
+        "expectedwatermark": "fafd2fa96f990c71841889af3b737253",
+        "labcount": {
+            "start": [],
+            "redo": []
+        }
+    }
+}
